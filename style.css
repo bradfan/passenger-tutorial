@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html{
+    font-size:62.5%;
+}
+
+body{
+background-image: url(../img/background.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.element{
+    padding:2rem;
+    text-align: center;
+    font-size:3rem
+
+}
+
+.inc_btn{
+    height:5rem;
+    width: 10rem;
+    font-size:2rem;
+    border-radius:1rem;
+}
